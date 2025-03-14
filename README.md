@@ -29,13 +29,13 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtigo&layout=compact&theme=radical)
 ## 🌱 Currently Learning
 - Advanced Cloud Architecture
-- Machine Learning Applications
+- Algorithms Theory and Advanced Data Structures
 - Performance Optimization Techniques
 ## 💡 Professional Highlights
 - Full Stack Developer with 3+ years of experience
 - Expertise in JavaScript/TypeScript ecosystem
 - Strong background in developing complex web applications
-- Passionate about clean code and innovative solutions
+- Passionate about code architecture and innovative solutions
 ## 🏆 Professional Achievements
 - Developed a comprehensive SHOP-SAAS system with advanced payment integrations
 - Created multiple full-stack applications across various domains
@@ -44,8 +44,8 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rossi-ferrer-32b29a183/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrertiago.io@gmail.com)
 ## 🎨 Fun Facts
-- 🎮 Game Development Enthusiast
-- 📊 Data Science Explorer
-- 🌍 Always curious about emerging technologies
+-🎮 Game Development Enthusiast
+-🎵 Passionate about expressing myself through music
+-🗿 Love drawing and scribbling
 ---
 ⭐️ From [Tiago Rossi Ferrer](https://github.com/vtigo)
