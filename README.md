@@ -46,8 +46,8 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rossi-ferrer-32b29a183/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrertiago.io@gmail.com)
 ## 🎨 Fun Facts
--🎮 Game Development Enthusiast
--🎵 Passionate about expressing myself through music
--🗿 Love drawing and scribbling
+- 🎮 Game Development Enthusiast
+- 🎵 Passionate about expressing myself through music
+- 🗿 Love drawing and scribbling
 ---
 ⭐️ From [Tiago Rossi Ferrer](https://github.com/vtigo)
