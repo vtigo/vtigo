@@ -2,7 +2,7 @@
 ## 🚀 About Me
 Passionate Full Stack Developer with a blend of technical expertise and creative chaos energy to find solutions in the cracks of reality.
 
-Keep in mind that this is a new account, and last year I contributed almost exclusively to repositories outside GitHub. I miss my green wall...
+Keep in mind that this is a new account, and last year I contributed almost exclusively to repositories outside GitHub.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vtigo&color=blueviolet)
 ## 💻 Tech Stack
