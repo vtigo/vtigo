@@ -1,4 +1,4 @@
-# 👋 Tiago Rossi Ferrer | Full Stack Developer
+# 👋 Tiago Ferrer | Full Stack Developer
 ## 🚀 About Me
 Passionate Full Stack Developer with a blend of technical expertise and creative chaos energy to find solutions in the cracks of reality.
 
