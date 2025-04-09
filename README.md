@@ -30,9 +30,9 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 ![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vtigo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtigo&layout=compact&theme=radical)
 ## 🌱 Currently Learning
-- Advanced Cloud Architecture
+- Go programming language
 - Algorithms Theory and Advanced Data Structures
-- Performance Optimization Techniques
+- Always perfecting my familiarity with Linux
 ## 💡 Professional Highlights
 - Full Stack Developer with 3+ years of experience
 - Expertise in JavaScript/TypeScript ecosystem
