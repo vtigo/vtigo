@@ -26,9 +26,6 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Stats
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vtigo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtigo&layout=compact&theme=radical)
 ## 🌱 Currently Learning
 - Go programming language
 - Algorithms Theory and Advanced Data Structures
