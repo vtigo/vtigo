@@ -29,6 +29,7 @@ Keep in mind that this is a new account, and last year I contributed almost excl
 ## 🌱 Currently Learning
 - Go programming language
 - Algorithms Theory and Advanced Data Structures
+- RAG and Fine Tuning
 - Always deepening my familiarity with Linux/Unix
 ## 💡 Professional Highlights
 - Full Stack Developer with 3+ years of experience
